@@ -36,3 +36,7 @@ data = {
 """,
 "model_name": "llama3.1:8b"  #ou nom du modèle que l'on veut utiliser
 }
+
+# Recommendation pratiques
+Si le port 5000 est déjà utiliser il suffit de changer le port dans la commande de setup par un autre port, il ne devrait pas y avoir besoin de change le port du conteneur ollama car celui ci et dans un network docker.
+Il y aura probablement besoins de changer l'application, il faudrat donc changer le fichier summarize.py et ajouter les dépendances dans le Dockerfile après "RUN", si vous voulez remplacer complètement le code il faut changer le Dockerfile pour convenir a votre besoin.
