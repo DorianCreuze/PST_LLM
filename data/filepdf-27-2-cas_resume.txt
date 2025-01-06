@@ -1,0 +1,13 @@
+- Patient : Monsieur C., 26 ans
+- Diagnostic : orchi-épididymite droite aiguë
+- Traitement en cours : traitement antibiotique, ayant permis la disparition des symptômes
+- Résultat d'examen : 
+  - Au 3ème mois, persistance d'une tuméfaction dure et sensible au pôle inférieur du testicule droit
+  - Échographie : formation mixte avec foyers hypo-échogènes mesurant 22 x 24 cm
+  - E.C.B.U. stérile, bilan inflammatoire et dosage des marqueurs tumoraux normaux
+- Antécédents personnels et familiaux : non mentionnés
+- Intervention : exploration testiculaire par voie inguinale
+- Résultat de l'examen : nodule bien limité et encapsulé dans la région sous-épididymaire
+- Intervention chirurgicale : orchidectomie partielle de la lésion
+- Résultat histologique : kyste épidermoïde isolé
+- Suivi : traitement conservateur, examens cliniques et échographiques normaux après 4 ans.

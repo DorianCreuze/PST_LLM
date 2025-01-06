@@ -1,0 +1,25 @@
+- Patient : Mr Z., 68 ans, d’origine algérienne.
+- Hospitalisation : janvier 1998 pour insuffisance rénale.
+- Symptômes : pollakiurie, impériosités, lombalgies bilatérales, état général conservé, apyrétique.
+- Examen clinique : volumineuse tumeur vésicale indurée, dilatation bilatérale des cavités pyélocalicielles.
+- Résultats d'examens :
+  - Créatininémie : 500 µmol/l.
+  - Anémie normocytaire : 8 g/dl d’hémoglobine.
+  - Hyperkaliémie : 5,2 mmol/l.
+  - Vitesse de sédimentation élevée.
+  - Urines stériles.
+  - PSA : 0,34 ng/ml.
+  - Tomodensitométrie : masse tissulaire d’origine vésicale au niveau du trigone, sans adénopathies.
+- Traitement en cours : 
+  - Résécation de la tumeur trigonale hémorragique par endoscopie.
+  - Néphrostomie percutanée bilatérale (impossibilité de drainage rétrograde).
+  - Chimiothérapie de type CHOP (4 cycles) avec rémission complète.
+- Antécédents personnels et familiaux : non précisés dans le texte.
+- Récidive : 5 mois plus tard, tumeur vésicale récidivante, atteinte urétérale bilatérale, déficit neurologique des membres inférieurs.
+- Bilan biologique : 
+  - Anémie normocytaire : 8,5 g/dl.
+  - VS : 90 mm à la première heure.
+  - Taux de LDH : normal.
+  - Biopsie médullaire : normale.
+- Nouveau traitement : 4 cures d’ESHAP, suivies d'une autogreffe, avec conditionnement par polychimiothérapie.
+- Rémission complète après 10 mois de suivi.

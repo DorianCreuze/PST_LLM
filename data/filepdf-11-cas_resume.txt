@@ -1,0 +1,17 @@
+- Patient : Mme K. K..., 33 ans.
+- Motif de consultation : Douleurs hypogastriques à la miction, pollakiurie, hématurie depuis 2 mois, traitement par antibiothérapie sans amélioration.
+- Antécédents personnels : 
+  - 4 grossesses menées à terme sur 6.
+  - Porteuse d’un appareil valvulaire prothétique.
+  - Pose de 2 dispositifs intra-utérins (DIU) : 
+    - Premier DIU posé il y a 4 ans, non retiré, n'a pas empêché la dernière grossesse il y a 3 ans.
+    - Deuxième DIU posé il y a 2 ans, récemment retiré.
+- Résultats d'examen : 
+  - Examen clinique : forte altération de l’état général, urines troubles, hématurie terminale, douleur à la palpation hypogastrique, leucorrhées fétides.
+  - Échographie : présence d’un corps étranger dans la vessie.
+  - Radiographie pelvienne : présence d’un DIU projeté sur l’aire vésicale.
+  - Cystoscopie : confirmation de la présence du DIU dans la vessie, extraction endoscopique effectuée.
+- Traitement en cours : 
+  - Examen cytobactériologique des urines : isolat de Pseudomonas aeruginosa sensible à la norfloxacine.
+  - Traitement postopératoire par norfloxacine.
+- Suivi : Disparition des symptômes dès le lendemain de l’intervention.

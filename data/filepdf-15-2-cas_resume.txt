@@ -1,0 +1,19 @@
+- Patient : G.A., 70 ans
+- Antécédents personnels : Aucun antécédent pathologique particulier
+- Symptômes : 
+  - Douleurs lombaires gauches évoluant par crises périodiques
+  - Brûlures mictionnelles
+  - Altération de l'état général
+  - Anorexie
+- Examen clinique : 
+  - Masse du flanc gauche, dure, non mobilisable, douloureuse à la palpation
+  - Masse débordant vers l'hypocondre gauche
+- Résultats d'examen : 
+  - Anémie normochrome normocytaire
+  - Scanner : processus tumoral du rein gauche
+- Traitement en cours : 
+  - Opération par incision de Baraya, exérèse de la tumeur
+- Résultat : 
+  - Décès au 6ème jour postopératoire par embolie pulmonaire
+  - Examen macroscopique : pièce de tumorectomie de 30 cm de diamètre, 3250 g, consistance adipeuse, nécroses, hémorragie, foyers myxoïdes
+  - Aspect histologique : liposarcome moyennement différencié

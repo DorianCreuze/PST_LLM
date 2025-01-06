@@ -1,0 +1,13 @@
+- Patient : adolescent de 14 ans avec douleurs lombaires droites persistantes depuis 4 semaines.
+- Symptomatologie : hyperthermie à 38,5 °C, altération de l'état général, empâtement de la fosse lombaire droite, tuméfactions cutanées (abcès fistulisés).
+- Antécédents : très mauvais état dentaire avec nombreuses caries.
+- Examens biologiques : syndrome inflammatoire sévère (hyperleucocytose à 14500/mm³, CRP à 138 mg/l), sans perturbation rénale ni déficit immunitaire.
+- Imagerie : 
+  - Échographie et urogra phie : masse solide volumineuse au pôle supérieur du rein droit, refoulant et laminant les calices, retard de sécrétion rénale.
+  - Tomodensitométrie : tumeur hyperdense infiltrant tissus adjacents et graisse péri-rénale.
+- Diagnostic : abcès rénal droit fistulisé.
+- Traitement en cours : antibiothérapie (oxacilline) avec aggravation des symptômes, nécessitant une intervention chirurgicale.
+- Intervention : néphrectomie droite en raison d'adhérences sévères.
+- Diagnostic post-opératoire : actinomycose rénale secondairement abcédée.
+- Traitement post-opératoire : antibiothérapie intraveineuse par pénicilline G (15 millions UI/jour pendant 4 semaines), suivie d'ampicilline (2 g/jour pendant 2 mois).
+- Évolution : convalescence sans complications, état clinique normalisé après 4 mois.

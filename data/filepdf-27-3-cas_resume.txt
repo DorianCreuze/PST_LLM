@@ -1,0 +1,8 @@
+- Patient : C., 32 ans.
+- Consultation pour induration du testicule gauche.
+- Examen : lésion testiculaire dure et indolore.
+- Échographie : tumeur intra-testiculaire, arrondie, hyperéchogène en périphérie, isoéchogène en son centre, mesurant 12 x 10 mm.
+- Marqueurs tumoraux : normaux.
+- Traitement en cours : tumorectomie avec biopsie extemporanée réalisée après clampage du cordon.
+- Résultat d'examen : analyse histologique définitive confirme un kyste épidermoïde isolé.
+- Suivi : contrôle clinique et paraclinique normal à 2 ans.

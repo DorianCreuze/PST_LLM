@@ -1,0 +1,20 @@
+- Patient : N.R, 21 ans
+- Présentation : Grosse bourse droite, apparue spontanément, augmentant progressivement depuis 4 mois
+- Symptômes : Douleurs intenses, insomniantes, irradiant le long du cordon
+- Examen clinique : Tumeur de 8 cm, sensible, polylobée, indépendante du testicule droit
+- Échographie : 
+  - Testicule droit normal (36 mm), avec masse hétérogène (68 x 52 x 65 mm) refoulant le testicule
+  - Testicule gauche normal
+  - Pas d’adénopathie profonde
+- Dosage des marqueurs tumoraux : Normal (HCG, LDH, FP, ACE)
+- Traitement en cours : 
+  - Opération par incision inguinale droite
+  - Biopsie : lésion maligne, orchidectomie droite et exérèse complète de la tumeur
+  - Examen anatomo-pathologique : Rhabdomyosarcome embryonnaire
+  - Stigmates d’oligospermie sécrétoire observés
+  - Réopération : hémiscrotéctomie droite sans envahissement scrotal
+- Tomodensitométrie (TDM) : Élimine l’envahissement ganglionnaire et les métastases
+- Traitement complémentaire : Chimiothérapie (Ifosfamide, Vincristine, Actinomycine) pendant 6 mois
+- Suivi : 
+  - 12 mois post-opératoire : pas de récidive locale, testicule gauche normal
+  - Scanner abdomino-pelvien et marqueurs tumoraux normaux

@@ -1,0 +1,13 @@
+- Patient : A.M., 80 ans
+- Antécédents : dysurie et urétrorragie intermittente
+- Admission : service d'urologie pour induration des corps caverneux (aspect de priapisme) et rétention aiguë des urines, nécessitant un cathéter sus-pubien
+- État général : altéré
+- Examen clinique : pénis dur, scléreux ; adénopathies inguinales bilatérales, dures et fixées
+- Résultats d'examen :
+  - Urétrocystographie rétrograde : image irrégulière marécageuse de l’urètre bulbo-membraneux
+  - Urétroscopie : bourgeons tumoraux au niveau de l’urètre pénien et bulbo-membraneux
+  - Étude histologique : carcinome épidermoïde infiltrant les corps spongieux avec métastases lymphonodales bilatérales
+  - Tomodensitométrie pelvienne : tumeur très étendue avec adénopathies inguinales bilatérales
+- Traitement en cours : radiothérapie locorégionale pré-opératoire
+- Évolution : développement de métastases pulmonaires 3 mois plus tard
+- Décès : dans un tableau de cachexie cancéreuse

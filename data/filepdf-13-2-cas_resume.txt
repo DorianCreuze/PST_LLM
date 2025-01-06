@@ -1,0 +1,13 @@
+- Patient : B.M., 55 ans
+- Antécédents personnels : Aucun antécédent pathologique particulier
+- Symptômes : Dysurie et constipation évoluant depuis 1 mois
+- Examen clinique : 
+  - Toucher rectal : masse rénitente englobant la prostate
+  - TDM pelvienne : masse prostatique cloisonnée avec infiltration des muscles releveurs de l’anus
+  - Urétro-cystoscopie : deux lobes prostatiques bombant sur la face postérieure de l’urètre
+- Diagnostic : Abcès de la prostate
+- Traitement en cours : 
+  - Antibiothérapie
+  - Drainage de l’abcès par résection trans-urétrale de deux copeaux prostatiques (écoulement de pus franc)
+- Résultat d'examen : Étude bactériologique du pus : E. coli multisensible
+- Évolution : Favorable avec un recul de 6 mois

@@ -1,0 +1,14 @@
+- Patient : Femme de 74 ans
+- Contexte : Asthénie et altération de l'état général
+- Antécédents : Aucune mention spécifique d'antécédents personnels ou familiaux
+- Traitement en cours : Non mentionné
+- Résultats d'examen :
+  - TDM hélicoïdale :
+    - Masse tumorale de 3 cm au pôle supéro-externe du rein gauche, au contact de la rate
+    - Kystes biliaires hépatiques
+    - Possible thrombus de la veine cave inférieure
+  - IRM :
+    - Kystes biliaires hépatiques
+    - Absence de processus expansif ; image du scanner liée à un phénomène de volume partiel
+    - Absence de thrombus veineux
+- Diagnostic final : Lobulation splénique, aspect de pseudo-tumeur rénale dû à un artefact rare.
