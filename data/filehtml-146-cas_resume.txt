@@ -1,0 +1,7 @@
+- Patiente de 40 ans, épileptique.
+- Intervention : Hystéroscopie et myomectomie sous rachianesthésie.
+- Traitement en cours : Rachianesthésie avec injection de morphine prévue à 0.1 mg (1/10 du contenu d'une ampoule de 1 mg).
+- Incident : Injection de 1 mg de morphine (dose 10 fois supérieure), due à une erreur d'ampoule (10 mg au lieu de 1 mg).
+- Surveillance accrue mise en place en SSPI puis en USC (surveillance continue) pour la nuit.
+- Résultat d'examen : Aucun effet indésirable significatif, seule une légère somnolence a été observée.
+- Protocole NALOXONE non activé.

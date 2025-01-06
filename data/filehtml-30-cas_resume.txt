@@ -1,0 +1,25 @@
+- Antécédents :
+  - Jeune homme caucasien diagnostiqué à 12 ans avec une tumeur desmoplasique de stade IV et métastases pulmonaires.
+  - Traitement initial : 5 cycles de chimiothérapie néoadjuvante (ifosfamide, carboplatin, étoposide), suivis d'une chirurgie d'exérèse et d'un cycle de chimiothérapie post-opératoire (cyclophosphamide, doxorubicine, vincristine) avec radiothérapie.
+  - Greffe de moelle osseuse autologue 8 mois après le diagnostic, entraînant une insuffisance rénale chronique.
+  - Hémodialyse instaurée 4,5 ans après le diagnostic.
+
+- Épisode clinique :
+  - 5 mois après la greffe allogénique, consultation pour œdème du visage, bonne condition générale, apyrétique.
+  - Résultats d'examens sanguins : absence de polynucléaires neutrophiles, créatinine à 584 µmol/L, urée à 10,1 mmol/L, albumine à 31 g/L.
+  - Traitements à domicile incluent alfacalcidol, amlodipine, calcium, cyclosporine (en sevrage), darbépoïétine, famciclovir et pentamidine.
+  - Hospitalisation en raison de neutropénie profonde, traitement antibiotique intraveineux initié.
+  - Hypertrophie gingivale sévère, cellulite sous-mandibulaire, ponction de moelle révèle chimérisme à 86 % donneur.
+
+- Évolution :
+  - 12 jours après admission : dégradation de l'état avec fièvre à 40 °C, détresse respiratoire, infection fongique confirmée par lavage broncho-alvéolaire (Candida albicans).
+  - Traitement antifongique (caspofongine et voriconazole) débuté, effets indésirables : hallucinations visuelles et changement de comportement.
+  - Voriconazole retiré après toxicité suspectée, troubles neurologiques résolus sans séquelles.
+
+- Résultats de pharmacogénomique :
+  - Génotypage du CYP2C19 révèle un statut de métaboliseur lent hétérozygote.
+
+- Suivi :
+  - Congé hospitalier 46 jours après admission, traitement anti-infectieux à domicile (caspofongine et vancomycine).
+  - Seconde greffe allogénique non apparentée de sang de cordon réalisée 16 mois après la première en raison de rejet.
+  - Quatre ans après la seconde greffe, patient en bon état général, dialyse trois fois par semaine.

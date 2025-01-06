@@ -1,0 +1,22 @@
+- Patient : Femme, 41 ans, préménopausée.
+- Motif de consultation : Douleurs rétrosternales (DRS) et douleurs épigastriques irradiant à l’omoplate droite depuis deux semaines.
+- Antécédents personnels :
+  - Quatre coronarographies, neuf échographies cardiaques, douze épreuves d’effort au cours des dix dernières années.
+  - Lupus stable.
+- Antécédents familiaux : Non précisés.
+- Traitement en cours :
+  - Clopidogrel ajouté à l’admission.
+  - Pantoprazole remplacé par le rabéprazole pour éviter l'interaction avec le clopidogrel.
+  - Augmentation de la dose de pantoprazole à deux fois par jour.
+  - Ajout de dompéridone (10 mg trois fois par jour).
+  - Essai de nicorandil (10 mg deux fois par jour), demande faite au Programme d’accès spécial de Santé Canada.
+- Résultats d'examen :
+  - Examen physique : TA 105/80 mm Hg, pouls 68 bpm, radiographie pulmonaire normale.
+  - Données de laboratoire : Hémoglobine à 119 g/L, LDL à 1,37 mmol/L, HDL à 2,3 mmol/L, triglycérides à 0,7 mmol/L, créatine kinase à 49 U/L, troponines T à 22 ng/L, CRP à 0,28 mg/L, sédimentation à 2 mm/h.
+  - Gastroscopie, échographie abdominale, et manomètre de l’œsophage normaux; pH-métrie positive.
+- Évaluation des douleurs :
+  - Douleurs constrictives, survenant à l’effort et au repos, parfois soulagées par la nitroglycérine.
+  - Fréquence : plus de dix fois par jour.
+  - Fatigue et dyspnée associées.
+- Coronarographie au jour 2 : Aucune lésion significative, pression pulmonaire normale.
+- Suivi : Rendez-vous de suivi non encore eu lieu.

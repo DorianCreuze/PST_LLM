@@ -1,0 +1,19 @@
+- Patient : Garçon de 14 ans, 64 kg, 1,72 m (surface corporelle de 1,75 m²).
+- Antécédents : Aucun antécédent médical.
+- Diagnostic : Ostéosarcome du fémur distal droit avec métastases pulmonaires.
+- Traitement en cours :
+  - Protocole Children Oncology Group AOST0331.
+  - Cycles de MAP (10 premières semaines) : 
+    - Doxorubicine, cisplatine, méthotrexate.
+  - Suivi avec MAPIE (semaines 12 et suivantes) : 
+    - Doxorubicine, cisplatine, méthotrexate, ifosfamide, étoposide.
+- Réaction allergique :
+  - Première dose de méthotrexate (jour 0) : réaction allergique avec rash, prurit.
+  - Deuxième dose (jour 7) : nouvelle réaction allergique, perfusion interrompue.
+- Désensibilisation au méthotrexate :
+  - Consultation en allergie, élaboration d’un protocole de désensibilisation.
+  - Première désensibilisation (jour 36) : réaction urticarienne, ajustement de la prémédication.
+  - Désensibilisations suivantes bien tolérées, traitement terminé avec succès.
+- Résultats d'examen :
+  - Élimination du méthotrexate dans le temps.
+  - Suivi des taux de créatinine.

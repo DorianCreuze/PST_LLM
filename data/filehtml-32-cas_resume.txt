@@ -1,0 +1,26 @@
+- Patient : Femme, 20 ans, 68 kg, sans allergie médicamenteuse connue.
+- Antécédents : 
+  - Encéphalite survenue il y a 6 ans.
+  - Atrophie cérébrale, dysphagie, épilepsie.
+- Traitement en cours :
+  - Médicaments administrés par jéjunostomie :
+    - Phénytoïne : 300 mg à 175 mg par voie jéjunostomie (diminution graduelle).
+    - Lévétiracétam : 1500 mg, 2 fois par jour.
+    - Clobazam : 30 mg le matin, 40 mg au coucher.
+    - Amantadine : 50 mg, 2 fois par jour.
+    - Ésoméprazole : 40 mg, 1 fois par jour.
+    - Vitamine D : 400 unités.
+    - Calcium : 250 mg.
+    - Acide valproïque : ajouté à 250 mg, 3 fois par jour.
+- Résultats d'examen :
+  - Dosage sérique de phénytoïne : 
+    - Initial : 27 μmol/L, corrigé : 38 μmol/L.
+    - Jour 3 : 56 μmol/L (corrigé), avec retour des convulsions.
+    - Jour 7 : 60 μmol/L (corrigé), pas de convulsions.
+    - Jour 12 : Infection (signes cliniques).
+    - Jour 14 : Pneumonie à Pseudomonas aeruginosa.
+    - Jour 16 : 12 μmol/L (corrigé), ajustement de la phénytoïne.
+    - Jour 20 : Remplacement des antibiotiques, réduction de la phénytoïne.
+- Hospitalisation : 
+  - Status epilepticus réfractaire traité par lorazépam, propofol, et pentobarbital.
+  - Gavage continu respecté durant toute l’hospitalisation.

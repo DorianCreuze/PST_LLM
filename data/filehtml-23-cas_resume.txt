@@ -1,0 +1,34 @@
+- Antécédents personnels et familiaux :
+  - Aucun antécédent médical connu.
+  - Pas de consultation médicale depuis des années.
+  - Pas de prise de médicaments, pas d'allergies, non-fumeuse, pas de consommation d'alcool.
+
+- Symptômes :
+  - Confusion, ataxie, paresthésie, céphalées.
+  - Perte de poids au cours des derniers mois.
+
+- Résultats d'examen :
+  - Pancytopénie.
+  - Insuffisance rénale (clairance de la créatinine à 45 ml/min).
+  - Taux de lymphocytes T CD4 : 46 cellules/µl (norme : 700-1100 cellules/µl).
+  - Charge virale VIH : 140 896 copies/ml.
+  - Présence du VIH et du VHC.
+  - Toxoplasmose cérébrale associée à un œdème cérébral.
+
+- Traitement en cours :
+  - Toxoplasmose :
+    - Dexaméthasone : IV puis oral, doses décroissantes.
+    - Pyriméthamine (200 mg dose de charge, puis 75 mg/jour).
+    - Acide folinique (50 mg/jour jusqu’au jour 6, puis 15 mg/jour).
+    - Sulfadiazine (1 500 mg 4 fois/jour, remplacée par clindamycine 600 mg 4 fois/jour).
+  - VIH :
+    - Ténofovir 300 mg/jour.
+    - Emtricitabine 200 mg/jour.
+    - Atazanavir 300 mg/jour.
+    - Ritonavir 100 mg/jour.
+  - Prophylaxie infection opportuniste :
+    - TMP-SMX remplacé par Dapsone (100 mg/jour).
+  
+- Évolution clinique :
+  - Augmentation des enzymes hépatiques (AST 473 U/L, ALT 193 U/L) nécessitant un arrêt temporaire des ARV.
+  - Reprise des ARV avec stabilisation des enzymes hépatiques.

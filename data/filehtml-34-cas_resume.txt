@@ -1,0 +1,14 @@
+- Patient : Femme caucasienne de 32 ans, 68 kg.
+- Antécédents personnels : Asthme allergique, pas d'allergies médicamenteuses ni d'autres antécédents médicaux.
+- Admission : Unité de greffe de cellules hématopoïétiques.
+- Diagnostic : Leucémie aiguë lymphoblastique, avec rémission complète après 4 cycles de chimiothérapie hyperCVAD.
+- Résultats d'examen :
+  - Cytogénétique : Absence du chromosome de Philadelphie, présence d'un réarrangement du gène MML (risque élevé de récidive).
+  - Analyse à l'admission : Fonctions rénales (créatinine : 62 μmol/l), hépatiques (bilirubine : 5 μmol/l, ALT : 5 U/l, AST : 13 U/l), hématologiques (globules blancs : 4,1 × 10^9/l, neutrophiles : 2,4 × 10^9/l, plaquettes : 236 × 10^9/l, hémoglobine : 122 g/l).
+- Traitement en cours :
+  - **Post-greffe : Pipéracilline-tazobactam (3,375 g toutes les six heures) pour une sinusite aiguë.
+  - Arrêt de la ciprofloxacine (prévention des infections pendant la neutropénie).
+  - Augmentation de pipéracilline-tazobactam à 4,5 g toutes les six heures après récidive de fièvre et neutropénie (globules blancs : 0,1 × 10^9/l).
+  - Ajout de vancomycine intraveineuse (1 g toutes les huit heures).
+- Effets indésirables : Rougeurs, prurit, tremblements et engourdissement des extrémités lors de la perfusion de vancomycine, mais pas d'hypotension signalée.
+- Changements de traitement : Daptomycine utilisée en remplacement de la vancomycine en raison de l'intolérance, jusqu'à amélioration de l'état de la patiente.

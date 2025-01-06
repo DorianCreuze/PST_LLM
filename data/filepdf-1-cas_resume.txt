@@ -1,0 +1,28 @@
+- Patient : Mr S.A., 50 ans, diabétique depuis 10 ans  
+- Admission : Août 1998, pour une tuméfaction lombaire droite, fébrile avec frissons  
+- Examen physique : Rougeur, empâtement, crépitation au flanc et à la paroi thoracique droite  
+- Résultats d'examen :  
+  - Glycémie à jeun : 1,71 g/l  
+  - Urée sérique : 0,51 g/l  
+  - Créatinine : 9,2 mg/l  
+  - Hémoglobine : 9,5 g/l  
+  - Hématocrite : 29,4%  
+  - Examen cytobactériologique des urines : Acinétobacter  
+- Imagerie :  
+  - Tomodensitométrie abdominale :  
+    - Gaze dans la paroi abdominale postérieure, espace périnéphrétique droit, rein droit  
+    - Dilatation pyélocalicielle droite sur calcul obstruant la jonction pyélourétérale droite  
+  - Radiographie pulmonaire : Gaz au niveau de la paroi thoracique  
+- Diagnostic : Pyélonéphrite emphysémateuse  
+- Traitement en cours :  
+  - Insuline ordinaire  
+  - Antibiotiques (ceftazidime, gentaline, métronidazole)  
+- Interventions chirurgicales :  
+  - Lombotomie (11ème espace intercostal) : Drainage de 2 litres de pus, débridement des logettes de pus périrénales  
+  - Drainage initial suivi d'une néphrectomie à froid ultérieure  
+  - Urographie intraveineuse au 21ème jour postopératoire : Rein droit muet sur lithiase obstructive  
+  - Néphrectomie droite au 2ème mois postopératoire  
+- État post-opératoire :  
+  - Patient se porte bien avec une fonction rénale normale  
+  - Rein gauche normal à l'échographie  
+  - Diabète équilibré

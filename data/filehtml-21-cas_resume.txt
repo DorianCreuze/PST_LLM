@@ -1,0 +1,17 @@
+- Patient : 32 ans, antécédents de polytoxicomanie (cocaïne, ecstasy, amphétamines, cannabis) et d’éthylisme chronique.
+- Motif d'admission : Agitation, hallucinations auditives et visuelles, propos incohérents, anorexie, insomnie, céphalées modérées.
+- Examen clinique : Pupilles en mydriase, fréquence cardiaque 84 bpm, tension artérielle 114/91 mmHg, ECG normal.
+- Résultats biologiques :
+  - CPK : 535 UI/L
+  - Hémoglobinémie : 17,0 g/dL
+  - Lactacidémie : normale à 0,7 mmol/L
+  - Gazométrie normale (pH 7,41, pCO2 40 mmHg, pO2 73 mmHg)
+  - Alcoolémie : nulle à l'admission
+- Traitement en cours : Sédation par oxazépam pour agitation dans un contexte de sevrage éthylique.
+- Substance ingérée : 250 mg de désoxypipradrol acheté sur Internet.
+- Évolution clinique :
+  - J5 : Plus calme, quelques céphalées, absence d'hallucinations, pas de fièvre.
+  - J7 : Disparition complète des symptômes.
+- Analyses toxicologiques : Présence de désoxypipradrol confirmée par plusieurs techniques (CLHP, CPG-SM, CLUHP-SM/SM).
+  - Concentration plasmatique : 136 µg/L à J3, 93 µg/L à J4.
+  - Concentration urinaire : 4 805 µg/L à J4.(
