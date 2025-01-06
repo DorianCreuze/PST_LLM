@@ -1,0 +1,26 @@
+- Patient : Monsieur L.M., 50 ans  
+- Antécédents médicaux :  
+  - Hypertension artérielle traitée depuis 12 ans  
+  - Diabète non insulino-dépendant traité depuis 6 ans  
+- Symptômes récents :  
+  - Poussées d’érythrose des extrémités et du visage  
+  - Sensation vertigineuse  
+  - Éructations  
+- Résultat d'examen :  
+  - Examen somatique normal  
+  - Tomodensitométrie abdominale :  
+    - Processus tumoral gastrique (7 x 6 x 5 cm)  
+    - Masse latéro-aortique gauche (4 x 4 x 3 cm)  
+    - Augmentation des taux des catécholamines sanguines  
+    - Augmentation de l’acide vanylmandélique dans les urines  
+- Traitement en cours :  
+  - Résection de la tumeur gastrique à 4 cm de la base d’implantation  
+  - Exérèse de la tumeur latéro-aortique (phéochromocytome)  
+- Résultats postopératoires :  
+  - Normalisation de la tension artérielle  
+  - Normalisation de la glycémie après arrêt du traitement antidiabétique oral au 3ème jour  
+- État actuel :  
+  - Bon état général  
+  - Normotendu  
+  - Glycémie normale  
+  - Pas de signes de récidives tumorales ou de métastases (recul de 2 ans)  

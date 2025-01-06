@@ -1,0 +1,12 @@
+- Patient : L.V., 62 ans
+- Antécédents personnels : 
+  - Isthmolobectomie en septembre 1992 pour carcinome vésiculaire bien différencié de la thyroïde
+  - Thyroïdectomie et curage lymphonodal en août 1999 pour tuméfaction cervicale (absence de malignité à l'histologie)
+- Traitement en cours : Complément thérapeutique par iode 131
+- Résultat d'examen :
+  - Scintigraphie à l'iode 131 : foyer d'hyperfixation au pôle inférieur du rein gauche
+  - Tomodensitométrie : masse de 1,5 x 1,0 cm au pôle inférieur du rein gauche
+  - Néphrectomie polaire inférieure réalisée
+  - Histologie : lésion nodulaire bien limitée, aspect en faveur d'une métastase rénale d'un carcinome vésiculaire bien différencié de la thyroïde
+  - Limites de l’exérèse saines
+- Évolution : favorable avec recul de 12 mois, aucune récidive à la tomodensitométrie abdominale et à la scintigraphie.

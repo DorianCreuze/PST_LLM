@@ -1,0 +1,11 @@
+- Patient : B.O., 35 ans
+- Motif d'admission : lombalgies gauches avec insuffisance rénale (créatininémie à 510 mol/l)
+- Antécédents personnels : traitement antituberculeux depuis 4 mois pour tuberculose uro-génitale
+- Résultat d'examen : UIV montre une mutité rénale gauche et une uretérohydronéphrose due à une sténose de l'uretère iliolombaire gauche
+- Traitement en cours : néphrostomie percutanée gauche réalisée
+- Évolution : créatininémie descendue à 240 mol/l après drainage
+- Résultat d'examen supplémentaire : pyélographie et UPR montrent arrêt complet du produit de contraste au niveau de l’uretère iliaque sur 6 cm
+- Tentative échouée : montée de double J par voie rétrograde
+- Intervention chirurgicale : urétérotomie sur la sténose avec mise en place d'une endoprothèse double J siliconée
+- Suivi : sonde changée tous les 6 mois, sans difficultés ni incrustation observée
+- État actuel : créatininémie oscillant entre 210 et 260 mol/l depuis l'intervention, avec un recul de 7 ans.

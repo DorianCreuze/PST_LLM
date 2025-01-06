@@ -1,0 +1,16 @@
+- Patient : M.J., 69 ans, diabétique depuis 10 ans sous sulfamides hypoglycémiants.
+- Hospitalisé en avril 1999 pour douleurs lombaires droites, fièvre et frissons depuis 3 jours.
+- À l'admission : état général bon, fébrile à 40°C, défense au flanc droit, météorisme diffus.
+- Bilan biologique : 
+  - Hyperglycémie : 22 mmol/l
+  - Hyperleucocytose : 21 000 éléments/mm³
+  - Créatininémie : 160 micromol/l
+  - Taux de plaquettes normal.
+- Échographie : rein droit augmenté de volume, sans obstruction des voies urinaires.
+- Tomodensitométrie : pyélonéphrite emphysémateuse confirmée.
+- Traitement en cours : insuline ordinaire, antibiotiques (triple association), drainage percutané (120 mL de pus drainé).
+- Résultat de la culture : Escherichia coli sensible à la ceftriaxone.
+- Amélioration rapide : apyrexie à 48 heures, normalisation de la fonction rénale au 3ème jour.
+- Drainage retiré au 8ème jour, contrôle TDM normal.
+- Patient quitté le service au 10ème jour sous insulinothérapie et antibiothérapie.
+- Contrôle TDM à 2 mois : normal.

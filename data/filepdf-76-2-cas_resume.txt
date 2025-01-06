@@ -1,0 +1,15 @@
+- Patient âgé de 82 ans, présentant une hématurie macroscopique depuis 3 mois.
+- Antécédents personnels : 
+  - Résection endoscopique de prostate il y a 5 ans.
+  - Démence sénile sévère, patient grabataire.
+- Résultats d'examen : 
+  - Échographie abdomino-pelvienne : 
+    - Volumineuse tumeur trigonale et latéro-vésicale droite.
+    - Urétéro-hydronéphrose droite.
+    - Vessie de lutte avec diverticule important.
+  - TDM thoraco-abdomino-pelvienne : pas de localisations secondaires, tumeur infiltrante.
+- Traitement en cours : 
+  - Résection trans-urétrale de vessie réalisée (geste incomplet).
+  - Geste complémentaire réalisé deux semaines plus tard (geste complet).
+  - Anatomopathologie : carcinome épidermoïde verruqueux mature pT2 G1, métaplasie malpighienne.
+- Surveillance cystoscopique tous les trois mois et résections endoscopiques palliatives en cas de récidives, cystectomie totale élargie contre-indiquée.
