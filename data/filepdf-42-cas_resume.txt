@@ -1,0 +1,16 @@
+- Patient : H..., 16 ans, sans antécédent notable.
+- Adressé pour prise en charge d'une tumeur testiculaire droite découverte lors d'un bilan étiologique d'une gynécomastie bilatérale.
+- Examen clinique : masse testiculaire droite dure et indolore, gynécomastie bilatérale sans galactorrhée.
+- Échographie : masse tissulaire hypoéchogène mesurant 14 cm dans le testicule droit.
+- Marqueurs tumoraux : Alpha foetoprotéine, Béta HCG, LDH normaux.
+- Bilan endocrinien :
+  - Testostérone : 0,12 ng/ml (normale : 3-10 ng/ml)
+  - Oestradiol : 25 pg/ml (normale : 20-60 pg/ml)
+  - Progestérone : 0,53 ng/ml (normale : 0,1-0,6 ng/ml)
+  - FSH : 26 MU/ml (normale < 10 MU/ml)
+  - LH : 44 MU/ml (normale < 5,8 MU/ml)
+- Bilan d'extension : pas de localisation secondaire à la tomodensitométrie abdominopelvienne et à la radiographie pulmonaire.
+- Traitement en cours : orchidectomie par voie inguinale réalisée.
+- Anatomopathologie : tumeur de 14 cm, aspect histologique évoquant une tumeur à cellules de la granulosa, de Sertoli et de Leydig, sans nécrose ni invasion vasculaire.
+- Immunomarquages : cellules positives pour les anticorps anti-cytokératine et vimentine, index de prolifération élevé.
+- Résultat post-intervention : neuf mois après, patient indemne de récidive clinique ou radiologique.

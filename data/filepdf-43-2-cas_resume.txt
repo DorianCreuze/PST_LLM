@@ -1,0 +1,6 @@
+- Patient : M.A., 53 ans, sans antécédents pathologiques particuliers.
+- Admission au service d’urologie pour troubles mictionnels depuis 8 mois, avec un épisode de rétention urinaire aiguë.
+- Examen : Prostate augmentée de volume, ferme et régulière; PSA total : 2,35 ng/ml.
+- Traitement en cours : Résection transurthrale de la prostate, suivie d'une cystoprostatectomie totale avec curage lymphonodal ilio-obturateur et dérivation urinaire par poche iléo-caecale détubulée.
+- Résultat d'examen : Léiomyosarcome prostatique de grade II, respect des limites d’exérèse, curage lymphonodal négatif, pas de traitement adjuvant instauré.
+- Suivi : Consultation 10 mois après avec contrôles clinique et tomodensitométrique normaux.

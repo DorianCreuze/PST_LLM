@@ -1,0 +1,28 @@
+- Patient : L.J., 83 ans, insuffisant respiratoire chronique.
+- Consultation pour :
+  - Grosse bourse gauche d'apparition récente, non douloureuse.
+  - Altération de l'état général.
+- Antécédents :
+  - Personnels : insuffisance respiratoire chronique.
+  - Familiaux : non précisés.
+- Examen clinique :
+  - Tuméfaction volumineuse de l'hémiscrotum gauche, indolore, ferme, irrégulière, non réductible.
+  - Testicule et épididyme non individualisables, masse non transilluminable.
+  - Orifices herniaires libres, examen scrotal droit normal.
+- Échographie :
+  - Masse tissulaire hétérogène de 15 cm, hyper vascularisée, refoulant le testicule gauche.
+  - Testicule droit normal.
+- Résultats des examens :
+  - Marqueurs tumoraux normaux : 
+    - LDH = 190 UI/L (N = 160-320 UI/L)
+    - bhCG = 1 UI/L (N <10 UI/L)
+    - α-fœtoprotéine = 2 ng/mL (N < 5 ng/mL)
+  - Radiographie pulmonaire et tomodensitométrie abdomino-pelvienne normales.
+- Traitement en cours :
+  - Orchidectomie gauche par voie inguinale réalisée.
+  - Poids de la pièce : 495 grammes, dimensions : 16 cm x 11 cm.
+- Résultats de l'examen histologique :
+  - Lésion tumorale présentant des zones cellulaires et bien différenciées.
+  - Diagnostic : liposarcome du cordon spermatique bien différencié, variante sclérosante et inflammatoire.
+  - Diagnostics éliminés : MFH et rhabdomyosarcome pléiomorphe.
+- Suites opératoires simples, suivi de 18 mois avec marqueurs sériques et tomodensitométrie thoraco-abdominale normales.

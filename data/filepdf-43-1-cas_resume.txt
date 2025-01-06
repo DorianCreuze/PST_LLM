@@ -1,0 +1,16 @@
+- Patient : A.F., 32 ans, sans antécédents pathologiques particuliers.
+- Admission pour : rétention aiguë d’urine avec hématurie macroscopique après sondage vésical.
+- Symptômes : troubles mictionnels (dysurie et pollakiurie) depuis 5 mois, constipation opiniâtre, hématurie intermittente, amaigrissement de 10 kg en 6 mois.
+- État général : mauvais, cachectique, conjonctives décolorées, température à 38 °C.
+- Palpation abdominale : masse suspubienne indolore, lisse, ferme, fixe par rapport au plan profond.
+- Toucher rectal : prostate très augmentée de volume, ferme, indolore, adhérente à la base vésicale.
+- Biologie : anémie hypochrome microcytaire, insuffisance rénale fonctionnelle (créatinine à 23 mg/l), améliorée après 4 jours de sondage.
+- Examens complémentaires : 
+  - Cytobactériologique des urines : négatif.
+  - Échographie pelvienne : volumineuse tumeur prostatique refoulant la vessie, sans retentissement sur le haut appareil urinaire.
+  - TDM abdomino-pelvienne : tumeur prostatique de 12 cm x 10 cm x 9 cm, zones liquidiennes ne prenant pas le contraste, refoulant le rectum et la vessie.
+- Biopsie prostatique : leïomyosarcome prostatique de grade 2.
+- Bilan d'extension : radiographie pulmonaire normale, échographie hépatique sans localisation secondaire.
+- Traitement en cours : résection endoscopique de la prostate pour libérer le col et ablation de la sonde vésicale.
+- Suites opératoires : infection urinaire à Pseudomonas aeruginosa multi-résistant, traitée par ceftazidime et amikacine, mais ECBU toujours positif.
+- Complications : choc septique à point de départ urinaire, décès 15 jours après l’hospitalisation.
