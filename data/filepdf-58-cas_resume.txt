@@ -1,0 +1,14 @@
+- Patient : A. M., 35 ans
+- Accident : Tir accidentel au harpon lors de la pêche
+- Résultat d'examen :
+  - Testicule droit : normal, non augmenté de volume, surface lisse
+  - Douleur à la mobilisation du testicule droit
+  - Pas d'hématocèle
+  - Plaie des muscles larges de la paroi abdominale
+- Antécédents : non mentionnés
+- Traitement en cours :
+  - Intervention chirurgicale en urgence : scrototomie centrée sur le trajet du harpon
+  - Fermeture de la brèche épididymo-testiculaire
+  - Suture des plaies
+  - Prescriptions post-opératoires : sérum antitétatinique et antibiothérapie
+- Suivi : Cicatrisation obtenue au sixième jour post-opératoire

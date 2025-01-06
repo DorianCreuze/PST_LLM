@@ -1,0 +1,13 @@
+- Patient : Hajaj M..., 49 ans
+- Antécédents personnels : sans antécédents pathologiques particuliers
+- Symptômes : douleurs périnéales, dysurie, pollakiurie, état général conservé
+- Examen : toucher rectal a révélé une prostate volumineuse, dure et irrégulière
+- Résultats d'examens : 
+  - PSA normal à trois reprises 
+  - Biopsie prostatique : carcinome sarcomatoïde, cellules variées, noyaux volumineux, mitoses nombreuses
+  - Tomodensitométrie : masse au carrefour vésico-prostatique, sans rupture capsulaire ni adénopathie/métastases
+  - Scintigraphie osseuse et radiographie pulmonaire : pas de localisations secondaires
+- Traitement en cours : cystoprostatectomie avec curage ganglionnaire, urostomie continente
+- Résultats histologiques post-opératoires : mêmes caractéristiques que la biopsie, envahissement de la base vésicale, métastases ganglionnaires à gauche
+- Suites opératoires : infection de la paroi, traitée par soins locaux
+- Décès : sept mois après l’intervention

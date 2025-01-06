@@ -1,0 +1,18 @@
+- Patient : A.M., 66 ans
+- Motif de consultation : lombalgies gauches
+- Antécédents personnels :
+  - Tabagisme : 50 paquets/an
+  - Cystoprostatectomie totale pour carcinome urothélial de vessie (13 ans auparavant)
+  - Dérivation urinaire de type Bricker
+  - Flash radiothérapique : 10,5 Gy
+  - Néphrectomie sous capsulaire gauche pour pyonéphrose obstructive (6 ans auparavant)
+- Résultat d'examen :
+  - Masse palpable du flanc gauche
+  - Créatininémie : 10 mg/l
+  - Échographie : masse liquidienne flanc gauche avec composantes hyperéchogènes
+  - Tomodensitométrie : masse kystique rétropéritonéale (17 cm x 11,5 cm, densité de 13 UH), uretère gauche dilaté
+  - Hypothèse d'un urinome rétropéritonéal
+- Traitement en cours :
+  - Exérèse complète de la poche kystique et de l’uretère restant
+  - Aspect histologique : carcinome urothélial de grade 2
+- État six mois après l’intervention : patient en bonne santé, sans signes de récidive

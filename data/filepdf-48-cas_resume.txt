@@ -1,0 +1,10 @@
+- Patient : M. Pierre, 75 ans
+- Antécédents : Hématurie importante et douleurs lombaires
+- Diagnostic : Volumineuse tumeur du pôle inférieur du rein droit, thrombus cave suspecté
+- Examens :
+  - Scanner réalisé avec injection iodée, mise en évidence d'une tumeur avec rehaussement précoce et hypodensité aux temps tardifs
+  - Thrombus dans la veine cave inférieure (s'étendant sur plus de 5 cm) et dans la veine génitale envahie par la tumeur
+  - Visualisation de deux veines lombaires sous-rénales
+  - Uretère avec extension tumorale à la partie supérieure
+- Traitement en cours : Chirurgie par voie sous-costale pour néphrectomie élargie droite et extraction complète des thrombi
+- Résultat d'examen : Analyse histologique confirme le carcinome à cellules claires et nature néoplasique des thrombi, extension tumorale à la partie haute de l'uretère

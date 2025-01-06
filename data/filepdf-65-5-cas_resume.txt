@@ -1,0 +1,14 @@
+- Patient : B.M..., 45 ans
+- Antécédents personnels : sans antécédents pathologiques
+- Date d'admission : 8 octobre 1997
+- Motif d'admission : insuffisance rénale sévère et anémie
+- État général : mauvais, pâleur cutanéo-muqueuse
+- Examen : masse de l'hypochondre droit avec contact lombaire
+- Résultats d'examen : 
+  - Fonction rénale très altérée : 142 mg/l de créatinine, 3,36 g/l d'urée
+  - Anémie : hémoglobine à 6 g/100 ml
+  - Échographie : masse tumorale du rein droit, petit rein gauche pyélonéphrétique chronique
+  - Tomodensitométrie : présence de la masse avec plages de nécrose
+- Traitement en cours : opération par lombotomie droite, évacuation d'un hématome périrénal, biopsie rénale
+- Résultat de la biopsie : néphrite chronique non spécifique
+- État final : patient décédé dans un tableau d'acidose grave
