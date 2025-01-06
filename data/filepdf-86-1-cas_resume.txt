@@ -1,0 +1,11 @@
+- Patient : Mme N. D., 25 ans
+- Motif de consultation : douleurs lombaires droites, hématurie totale épisodique, évoluant depuis plusieurs mois
+- Examen : contact lombaire droit à l'examen physique
+- Résultat d'examen : 
+  - UIV : syndrome tumoral médio-rénal et polaire inférieur droit
+  - Échographie : masse tissulaire hétérogène du rein droit, 12x7 cm, bien encapsulée, sans envahissement de la veine rénale
+  - Tomodensitométrie : processus tumoral volumineux du rein droit, fines cloisons, aspect en bandes radiaires après injection de produit de contraste
+- Traitement en cours : néphrectomie élargie réalisée
+- Histologie : oncocytome rénal
+- Antécédents : pas d'antécédents personnels ou familiaux mentionnés
+- Évolution : favorable avec un recul de trois ans

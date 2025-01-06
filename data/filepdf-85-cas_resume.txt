@@ -1,0 +1,26 @@
+- Patient : EL. O. Khalifa, 44 ans.
+- Antécédents : Hospitalisé en septembre 1998 pour lésions osseuses rachidiennes d'allure secondaire.
+- Symptômes : 
+  - Douleurs vertébrales lombosacrées avec sciatalgies bilatérales.
+  - Troubles mictionnels (pollakiurie, impériosité).
+  - Amaigrissement de 8 kg.
+  - Signes d'hypertension intracrânienne : céphalées, baisse de l'acuité visuelle, vomissements.
+- État à l'admission : Mauvais état général, pâle, apyrétique.
+- Examen physique : Prostate dure, augmentée de volume, nodulaire ; examen neurologique normal ; aires lymphonodales libres.
+- Résultats d'examen :
+  - Hémoglobine : 4,2 g/100 ml.
+  - Hématocrite : 12,4%.
+  - PSA total : 66,68 ng/ml.
+  - Vitesse de sédimentation : 25 mm/h.
+  - Échographie pelvienne : Prostate de 35 g avec zones hypoéchogènes.
+  - Biopsie : Adénocarcinome bien différencié, score de Gleason 4.
+  - IRM : Infiltration diffuse de la médullaire osseuse dorsolombaire et sacrée, processus expansif au niveau cérébral avec œdème diffus.
+- Traitement en cours :
+  - Transfusion.
+  - Corticothérapie : hydrocortisone (400 mg/jour IV) puis prednisone (1 mg/kg/jour oral).
+  - Traitement hormonal : acétate de cyprotérone + goséréline (3,6 mg mensuelle).
+  - Radiothérapie : 30 grays sur les métastases vertébrales de T12 à S1.
+- Résultats de traitement : 
+  - Huit mois après, PSA à 2,60 ng/ml, amélioration clinique et prise de poids.
+  - Dix mois après, réascension du PSA, aggravation des douleurs osseuses, installation d’une cécité, métastases parenchymateuses diffusées.
+- Décès du patient : Quelques semaines après l'aggravation, dans un tableau de cachexie.
