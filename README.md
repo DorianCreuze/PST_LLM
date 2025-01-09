@@ -40,3 +40,14 @@ data = {
 # Recommendation pratiques
 Si le port 5000 est déjà utiliser il suffit de changer le port dans la commande de setup par un autre port, il ne devrait pas y avoir besoin de change le port du conteneur ollama car celui ci et dans un network docker.
 Il y aura probablement besoins de changer l'application, il faudrat donc changer le fichier summarize.py et ajouter les dépendances dans le Dockerfile après "RUN", si vous voulez remplacer complètement le code il faut changer le Dockerfile pour convenir a votre besoin.
+
+
+# Contenu
+dossier "data" contient une partie des fichiers de cas médicaux en texte avec les résumés en fichier textes.
+fichier "fichier_assemble.csv" contient tout les cas médicaux et tout les résumés de ces cas auquels nous avions accès
+fichier "Dockerfile" est le Dockerfile que nous avons utiliser pour crée le conteneur de notre application qui met le cas dans un prompt et l'envoi sur le conteneur ollama.
+les fichier "windows_setup.bat" "linux_setup.sh" performes les actions requises pour préparer l'utilisation du contenu de ce répository
+le fichier "rapport.pdf" contient un rapport dans lequel nous détaillons nos actions tout au long du projet, qui explique pourquoi on a fait les choix que l'on a fait.
+le fichier summarize.py contient notre application qui quand on la met sur un conteneur docker communique avec le conteneur ollama pour vous donner des résumé de cas médicaux quand vous communiquer le cas sur le port 5000 en localhist.
+le fichier t.py contient un simple test de l'application, il envoit un cas médical sur le port 5000 et print le résumé.
+les fichier avec "restartcontainers" et "stopcontainers" font ce qui est dit dans le nom et éteigne ou allume les 2 conteneurs nécessaire à l'utilisation de l'application.
